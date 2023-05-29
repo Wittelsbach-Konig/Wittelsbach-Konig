@@ -10,6 +10,8 @@
   </ul>
 </h3>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <h3>Languages: </h3>
 

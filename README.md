@@ -10,7 +10,7 @@
   </ul>
 </h3>
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays%20you%20hate%20Capitalism)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays%20you%20hate%20Capitalism&author=Slavoj%20Zizek)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h3>Languages: </h3>

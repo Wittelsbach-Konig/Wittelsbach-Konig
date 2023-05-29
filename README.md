@@ -9,12 +9,8 @@
     <li>SPBPU control in technical system bachelor</li>
   </ul>
 </h3>
-
-<p align="center">
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays%20you%20hate%20Capitalism)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h3>Languages: </h3>

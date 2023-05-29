@@ -39,5 +39,6 @@
 <h2>Raising Money</h2>
 Raising money for the Liberation of the Worker Class (just kidding *_*)
 
-![95481177-business (1)](https://github.com/Wittelsbach-Konig/Wittelsbach-Konig/assets/59288516/4a50f660-ba31-42ef-835f-c2c52596437a)
+
+![95481177-business](https://github.com/Wittelsbach-Konig/Wittelsbach-Konig/assets/59288516/f28bb9f2-e706-488e-84ee-a1ebbd1cb7c7)
 

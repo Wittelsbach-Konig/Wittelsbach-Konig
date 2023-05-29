@@ -37,5 +37,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h2>Raising Money</h2>
+Raising money for the Liberation of the Worker Class (just kidding *_*)
 
-https://pay.mysbertips.ru/95481177
+[qr-95481177-card.pdf](https://github.com/Wittelsbach-Konig/Wittelsbach-Konig/files/11592583/qr-95481177-card.pdf)
+

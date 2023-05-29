@@ -1,5 +1,5 @@
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Vitaliy+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Vitaliy+%F0%9F%94%AD)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 

@@ -4,9 +4,12 @@
 <h2 align="center">Computer science student from Russia 🇷🇺</h2>
 <h3>
   Education: 
+  <ul>
+    <li>ITMO </li>
+    <li>SPBPU </li>
+  </ul>
 </h3>
-<ul>ITMO </ul>
-<ul>SPBPU </ul>
+
 
 <h3>Languages: </h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

@@ -39,6 +39,6 @@
 <h2>Raising Money</h2>
 Raising money for the Liberation of the Worker Class (just kidding *_*)
 
-<img src="img/QR_Code.png" />
+<img src="img/qr_code.png" />
 
 

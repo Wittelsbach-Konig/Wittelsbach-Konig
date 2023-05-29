@@ -12,6 +12,9 @@
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays,%20you%20hate%20Capitalism&author=Slavoj%20Zizek)](https://github.com/piyushsuthar/github-readme-quotes)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=monokai)
 
 <h3>Languages: </h3>
 

@@ -39,6 +39,6 @@
 <h2>Raising Money</h2>
 Raising money for the Liberation of the Worker Class (just kidding *_*)
 
-<img src="![95481177-business](https://github.com/Wittelsbach-Konig/Wittelsbach-Konig/assets/59288516/2710b7c8-63b9-4cc3-ae46-5b88d6e37dbd)"/></img>
+<img src="![95481177-business](https://github.com/Wittelsbach-Konig/Wittelsbach-Konig/assets/59288516/2710b7c8-63b9-4cc3-ae46-5b88d6e37dbd)" alt="" />
 
 

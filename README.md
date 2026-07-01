@@ -1,41 +1,58 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=851FF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Vitaliy+Kiryushin+%F0%9F%94%AD" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=68478D&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Vitaliy+Kiryushin+%F0%9F%94%AD" alt="Typing SVG" /></a>
 </h1>
-<h2 align="center">Computer science student from Russia 🇷🇺</h2>
-<h3>
-  Education: 
-  <ul>
-    <li>ITMO software engineering magister</li>
-    <li>SPBPU control in technical system bachelor</li>
-  </ul>
-</h3>
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays,%20you%20hate%20Capitalism&author=Slavoj%20Zizek)](https://github.com/piyushsuthar/github-readme-quotes)
+<h2 align="center">Software Engineer from Russia 🇷🇺</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wittelsbach-Konig&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wittelsbach-Konig&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wittelsbach-Konig&theme=monokai)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=You%20don't%20hate%20mondays,%20you%20hate%20Capitalism&author=Slavoj%20Zizek" alt="Readme Quotes" /></a>
+</p>
 
-<h3>Languages: </h3>
+## About me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+C++ / Python developer working on embedded systems, computer vision and desktop GUI applications, mainly with **OpenCV** and **Qt**. On the side, I build personal projects in **Rust**.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<h3>Tools: </h3>
+## Education
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ITMO — Software Engineering, Master's
+- SPBPU — Control in Technical Systems, Bachelor's
 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+## Stack
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-68478D?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-68478D?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-68478D?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-68478D?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Qt](https://img.shields.io/badge/Qt-68478D?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-68478D?style=for-the-badge&logo=opencv&logoColor=white)
+![egui](https://img.shields.io/badge/egui-68478D?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-68478D?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-68478D?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-68478D?style=for-the-badge&logo=cmake&logoColor=white)
+![vcpkg](https://img.shields.io/badge/vcpkg-68478D?style=for-the-badge)
+![uv](https://img.shields.io/badge/uv-68478D?style=for-the-badge&logo=uv&logoColor=white)
+![Manjaro Linux](https://img.shields.io/badge/Manjaro_Linux-68478D?style=for-the-badge&logo=manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-68478D?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-68478D?style=for-the-badge&logo=windows&logoColor=white)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Wittelsbach-Konig?template=classic" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Wittelsbach-Konig&hide_border=true&background=00000000&ring=68478D&fire=68478D&currStreakLabel=68478D" alt="GitHub Streak" />
+</p>
+
+## Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-68478D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kirushin)
+[![Email](https://img.shields.io/badge/Email-68478D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiryuschin.vitalij@yandex.ru)

@@ -44,13 +44,15 @@ C++ / Python developer working on embedded systems, computer vision and desktop 
 
 ## GitHub Stats
 
-<p align="center">
+![Metrics](https://metrics.lecoq.io/Wittelsbach-Konig?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
+
+<!-- <p align="center">
   <img src="https://metrics.lecoq.io/Wittelsbach-Konig?template=classic" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Wittelsbach-Konig&hide_border=true&background=00000000&ring=68478D&fire=68478D&currStreakLabel=68478D" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ## Contacts
 

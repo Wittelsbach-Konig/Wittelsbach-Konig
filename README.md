@@ -48,10 +48,6 @@ C++ / Python developer working on embedded systems, computer vision and desktop 
   <img src="https://raw.githubusercontent.com/Wittelsbach-Konig/Wittelsbach-Konig/metrics-data/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Wittelsbach-Konig&hide_border=true&background=00000000&ring=68478D&fire=68478D&currStreakLabel=68478D" alt="GitHub Streak" />
-</p>
-
 ## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-68478D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kirushin)

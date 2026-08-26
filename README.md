@@ -45,7 +45,7 @@ C++ / Python developer working on embedded systems, computer vision and desktop 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Wittelsbach-Konig?template=classic" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Wittelsbach-Konig/Wittelsbach-Konig/metrics-data/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
